@@ -1,1 +1,1 @@
-# Understanding-WM-HP-In-BNN
+# Understanding Weight Magnitude Hyperparameters in BNNs
