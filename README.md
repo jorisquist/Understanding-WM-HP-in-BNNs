@@ -1,6 +1,6 @@
-# Understanding Weight Magnitude Hyperparameters in BNNs
+# Understanding weight-magnitude hyperparameters in training binary networks
 
-This repo will contain the source code of our paper Understanding weight-magnitude hyperparameters in Binary Networks
+This is the PyTorch implementation of accepted ICLR 2023 paper: [Understanding weight-magnitude hyperparameters in training binary networks](https://openreview.net/forum?id=uBKBoix9NXa)
 
 ## Citation
 ```
